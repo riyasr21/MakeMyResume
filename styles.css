@@ -1,0 +1,78 @@
+#cv-template {
+  display:none;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+p{
+  margin-top: 5px;
+  text-align: center;
+}
+
+.try{
+  border: none;
+  clear:both;
+  border-top: 5px solid black ;
+  display:block;
+  width: 100%;
+  background-color:black;
+  margin-bottom: 0px;
+  color: black;
+
+
+}
+
+.col-md-4.greycol {
+  background-color: #ccc;
+
+  color: white;
+
+}
+.headingOfTheFirstColumn{
+  margin-top: 3px;
+  margin-bottom: 5px;
+  text-align: left;
+  color: black;
+}
+.heading {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+.row1 {
+  padding-top: 5px;
+  padding-left: 13px;
+}
+.row2 {
+  padding-top: 15px;
+  padding-left: 13px;
+}
+#paddingOne {
+  padding-left: 13px;
+}
+
+#objective {
+  margin-top: 0;
+  padding-top: 12px;
+  text-align: inherit;
+}
+.row3 {
+  padding-bottom: 0;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.col-md-8 {
+  padding-left: 0;
+}
+
+#list1,#list2,#list3,#list4,#list9{
+list-style: none;
+}
+.button {
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
